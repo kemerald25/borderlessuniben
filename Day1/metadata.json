@@ -1,0 +1,5 @@
+{
+  "name": "Stellar DApp with WalletConnect",
+  "description": "A decentralized application boilerplate using React, TypeScript, and WalletConnect's Web3Modal, allowing users to connect their crypto wallets and interact with DApp features.",
+  "requestFramePermissions": []
+}
